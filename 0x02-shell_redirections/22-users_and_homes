@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo vi /etc/passwd
+cut -d':' -f16 /6/etc/passwd | sort
