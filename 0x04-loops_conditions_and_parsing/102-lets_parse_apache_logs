@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# aceesing a log file and filtering out the needed item
+
+awk '{print $1 " " $9}' apache-access.log
