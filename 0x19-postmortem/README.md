@@ -49,4 +49,5 @@ To prevent recurrence and improve overall system resilience, the following actio
 
 By addressing these areas, we aim to significantly enhance the system's ability to handle increased traffic and prevent similar issues from occurring in the future.
 
-![_0396f831-f744-4778-9e07-c4a0e1678789](https://github.com/user-attachments/assets/1796c616-678a-4130-a708-600920994af7)
+![_b5e46a9c-8a1c-45c9-ac8c-c86ab88462f5](https://github.com/user-attachments/assets/7da99f7c-ef1e-4127-a619-e28456a4a973)
+
