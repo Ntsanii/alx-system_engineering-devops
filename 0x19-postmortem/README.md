@@ -1,5 +1,8 @@
 0x19-postmortem
 
+![_0396f831-f744-4778-9e07-c4a0e1678789](https://github.com/user-attachments/assets/13d2e5d3-6744-4a6e-82f4-f0fb6b4621ce)
+
+
 ## Issue Summary
 
 **Duration:** 1 hour and 30 minutes (14:00 - 15:30 Central Africa Time)
