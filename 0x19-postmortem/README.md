@@ -9,6 +9,9 @@
 **Impact:** A significant performance degradation of the e-commerce platform was experienced. Users reported slow loading times, difficulty adding items to cart, and unsuccessful checkout attempts. Approximately 70% of users were affected.
 **Root Cause:** A surge in traffic combined with inefficient database query optimization led to database overload.
 
+![image](https://github.com/user-attachments/assets/fa20cdbb-6a34-48bf-9a24-9587536ecfb0)
+
+
 ## Timeline
 
 * **14:00 CAT:** Monitoring system alerts of increased database load and slow query response times.
