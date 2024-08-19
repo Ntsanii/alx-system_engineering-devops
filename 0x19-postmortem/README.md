@@ -9,7 +9,7 @@
 **Impact:** A significant performance degradation of the e-commerce platform was experienced. Users reported slow loading times, difficulty adding items to cart, and unsuccessful checkout attempts. Approximately 70% of users were affected.
 **Root Cause:** A surge in traffic combined with inefficient database query optimization led to database overload.
 
-![image](https://github.com/user-attachments/assets/fa20cdbb-6a34-48bf-9a24-9587536ecfb0)
+![download (5)](https://github.com/user-attachments/assets/5a96a9e5-ddad-465d-8326-9c21e647f1f8)
 
 
 ## Timeline
@@ -48,3 +48,5 @@ To prevent recurrence and improve overall system resilience, the following actio
 * Create a detailed incident response playbook.
 
 By addressing these areas, we aim to significantly enhance the system's ability to handle increased traffic and prevent similar issues from occurring in the future.
+
+![_0396f831-f744-4778-9e07-c4a0e1678789](https://github.com/user-attachments/assets/1796c616-678a-4130-a708-600920994af7)
